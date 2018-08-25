@@ -1,0 +1,34 @@
+class: Morgana
+costumes:
+- chatcolor: '&7'
+  name: §8M§7o§fr§5g§fa§7n§8a
+  sig: IlfWRZMNYvlpw7QX1FzBHy1xBCGdH1SG6OkJgbcr43OLuAdT3AgfxT13j7sbxVCfsIsjFhth393OZLubficc2pNazcvj2bhO/C/hMMHHjZMCgnp+uWjK2Jt/T5hKXtUmk3dluXq/LS4LUB0UAMqaVLwmHon3l37pe799ripaxWCogXHehJ++IFBqGUA6mci+44W4UqGoJeuwGwiswt8oeJjrnAZrM5YJbZW1lqe0+ZbMEPL+rvSwKQ8phE+g8G3WLcBH9ES+88JBtuIAzVibHYvlXalgfPM3+zGuuADLUJh3uI0bQA5Dxsi2R5zJerTbuqzNGgHGMM9iJ9rpZ1B4pbTbSoXzgzRrRd1nQvBv3AtcdVFwPAYqDLu5SgFXXfbMt21ZKMM5lmHm9BKVKc7sORYcbhwZhR+VaOjyNs2o4KmEuHkpomQu7Ur4RgrOZcDNYU22bPpeG4QJep2ovIMVHMGD02aUNBP0wlUzvY4UUSC2bBVLGTJs/ChCHcL+HrDmkDmktdA+p8eJNQVrx/9qpU4Gves80IIDGLKpb0OHcfMjrdjpVKsWB+U9f3tt2XRy1urj6sxmxAdJbq4zVl+td0d0661D+rX+z0MEVQv1XIMtI+EjXQqZKW9H4Qp7sfarH7tsoyVnA8oVtfP6VfzyiF08ASJBKEV6NiWkwhFy2PU=
+  val: eyJ0aW1lc3RhbXAiOjE1MzUxNjU5MDU4NzcsInByb2ZpbGVJZCI6IjY3YWVmMjE1MTUwNzQ3YmVhOWRkN2VlNGJmZDZiYzg0IiwicHJvZmlsZU5hbWUiOiJBbGxleUNoYXQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjZmIzNGNiMjQ1YjQ4Y2JiMGU5NzZjYWM5ODQxMDYwOGRhOWIyZGEzYjQ0ZmI1OWY3NzhiMzdmMGM3YjkyNzgiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ==
+effects: [
+  ]
+items:
+- /shot give <plr> magicblast
+- /give <plr> minecraft:iron_sword 1
+- /mgive <plr> fireboltwand
+- /mgive <plr> telekinesiswand
+- /mgive <plr> manipulatewand
+- /mgive <plr> forcefieldwand
+- /minecraft:give <plr> spawn_egg 1 0 {EntityTag:{id:"Zombie",CustomName:"§8M§7o§fr§8g§7a§fn§8a's
+  §5Servant"}}8
+maxHearts: 40
+permissions:
+  superherocity:
+  - ch.alias.confuse
+powers:
+- /effects
+- /items
+- /confuse <player>
+- /mindcontrol <player>
+- /stopmindcontrol
+- /speak <player> <message>
+- /weather
+- /lightning
+- /wind <player>
+speech: Sometimes you've got to do what you think is right, and damn the consequences
+trail: [
+  ]
