@@ -18,7 +18,19 @@ items:
 maxHearts: 40
 permissions:
   superherocity:
+  - ch.alias.msg
+  - ch.alias.mindlock
+  - ch.alias.stopmindcontrol
   - ch.alias.confuse
+  - ch.alias.dropplayer
+  - ch.alias.carryplayer
+  - ch.alias.unconfuse
+  - powers.mindcontrol
+  - ch.alias.speak
+  - essentials.weather
+  - bukkit.command.weather
+  - essentials.lightning
+  - ch.alias.wind
 powers:
 - /effects
 - /items
